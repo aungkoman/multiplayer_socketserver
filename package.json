@@ -85,7 +85,7 @@
     "serve-static": "1.13.2",
     "sqlstring": "2.3.1",
     "string_decoder": "1.1.1",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "to-array": "0.1.4",
     "type-is": "1.6.16",
     "ultron": "1.1.1",
