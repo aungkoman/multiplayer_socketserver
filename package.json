@@ -94,7 +94,7 @@
     "socket.io-client": "2.1.1",
     "ws": "3.3.3",
     "statuses": "1.4.0",
-    "xmlhttprequest-ssl": "1.5.5",
+    "xmlhttprequest-ssl": "1.6.2",
     "yeast": "0.1.2",
     "unpipe": "1.0.0",
     "vary": "1.1.2",
