@@ -81,7 +81,7 @@
     "setprototypeof": "1.1.0",
     "raw-body": "2.3.2",
     "socket.io-adapter": "1.1.1",
-    "socket.io-parser": "3.2.0",
+    "socket.io-parser": "3.3.3",
     "serve-static": "1.13.2",
     "sqlstring": "2.3.1",
     "string_decoder": "1.1.1",
