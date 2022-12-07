@@ -72,7 +72,7 @@
     "object-assign": "4.1.1",
     "range-parser": "1.2.0",
     "proxy-addr": "2.0.4",
-    "qs": "6.5.1",
+    "qs": "6.5.3",
     "readable-stream": "2.3.6",
     "safe-buffer": "5.1.2",
     "send": "0.16.2",
